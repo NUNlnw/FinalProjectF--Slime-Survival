@@ -5007,7 +5007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c57bbff7753cafe4cad0fdaadf8f1ec1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damagePerTick: 1
+  damagePerTick: 5
   tickInterval: 1
   knockbackForce: 0
   lifeTime: 3

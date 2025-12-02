@@ -184,7 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: TurtleShellEnemy
-  _maxHealth: 50
+  _maxHealth: 40
   Damage: 25
   Deffent: 25
   movementSpeed: 5
