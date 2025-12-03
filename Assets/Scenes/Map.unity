@@ -5524,7 +5524,7 @@ MonoBehaviour:
   deadRestartButton: {fileID: 545999508}
   timeUpRestartButton: {fileID: 98322238}
   timerText: {fileID: 1000201764}
-  gameDurationSeconds: 300
+  gameDurationSeconds: 420
   player: {fileID: 1642454938}
   killCountText: {fileID: 936340144}
 --- !u!4 &410467436

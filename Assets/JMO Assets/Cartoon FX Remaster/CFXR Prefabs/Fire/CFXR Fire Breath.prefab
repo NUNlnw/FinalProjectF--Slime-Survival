@@ -5008,7 +5008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damagePerTick: 5
-  tickInterval: 1
+  tickInterval: 0.3
   knockbackForce: 0
   lifeTime: 3
 --- !u!1 &8764373218812076563

@@ -51,7 +51,7 @@ public class FireBreathPassive : PassiveSkill
 
     public bool Upgrade_Damage()
     {
-        fireDamagePerTick += 0.5f;
+        fireDamagePerTick += 1f;
         return true;
     }
 

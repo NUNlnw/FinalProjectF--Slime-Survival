@@ -239,7 +239,7 @@ public class PassiveSkillBook : MonoBehaviour
             options.Add(new UpgradeOption
             {
                 title = "Fire Breath\n+Damage",
-                description = "+0.5 damage per tick",
+                description = "+1 damage per tick",
                 apply = () => ApplyUpgrade(PassiveUpgradeType.Fire_Damage)
             });
         }

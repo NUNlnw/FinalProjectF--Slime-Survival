@@ -15,7 +15,7 @@ public class PoisonBottlePassive : PassiveSkill
     float poisonTickInterval = 0.1f;
     float poisonScale = 1f;
     float poisonDuration = 1f;
-    float minInterval = 0.2f;
+    //float minInterval = 0.2f;
 
     public PoisonBottlePassive(
         Transform throwPoint,
